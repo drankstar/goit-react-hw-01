@@ -1,0 +1,11 @@
+.thead{
+    background-color: black;
+}
+.trow{
+    color: black;
+    font-size: 14px;
+    background: #fff;
+}
+.trowDoubles{
+    background: #5a5858;
+}
