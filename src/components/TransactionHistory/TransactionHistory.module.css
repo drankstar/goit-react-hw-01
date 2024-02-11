@@ -9,3 +9,11 @@
 .trowDoubles{
     background: #5a5858;
 }
+.container{
+    margin: 0 auto;
+    width: 500px;
+}
+td{
+    line-height: 20px;
+    text-align: center;
+}

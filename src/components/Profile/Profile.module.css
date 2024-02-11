@@ -1,11 +1,12 @@
 .containerBody{
     overflow: hidden;
-    margin: 0 auto;
+    margin: 0 auto 30px;
     border: solid 3px;
     border-radius: 10px; 
     background: #fff;
     width: 500px;
     border-color: black;
+
     
 }
 .container{
